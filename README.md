@@ -16,7 +16,7 @@ Despite these connections, little is actually known about the prevalence of, and
 
 ## Paper Citation 
 
-This paper will be published in the proceedings of the *International Conference of Software Engineering (ICSE)*, 2022. A PDF of the full paper and a link to the arXiv open access version will be added once we have finished preparing the preprint
+This paper will be published in the proceedings of the *International Conference of Software Engineering (ICSE)*, 2022. A PDF of the full paper is available [here](https://github.com/CelloCorgi/HashingItOut_ICSE2022/blob/main/ICSE2022_Cannabis_Preprint.pdf) and a link to the arXiv open access version will be added shortly.
 
 ## Replication Package Contents
 
